@@ -1,23 +1,23 @@
 # Orvisu
 
-Orvisu provides an interface to simply generates 3D plot and 3D animations with color as 4th dimensions.
+Orvisu provides an interface to simply generate 3D plot and 3D animations with color as 4th dimensions.
 
 Orvisu is a Python3 interface realized with [wxpython](https://wxpython.org/)
 
 Orvisu uses [PVGeo](https://github.com/OpenGeoVis/PVGeo) and [pyvista](https://github.com/pyvista/pyvista) libraries for the visualization.
 
-Orvisu can be usefull in Geoscience to visualize 3D Domains or visualize sliced 3D domain.
+Orvisu can be useful in Geoscience to visualize 3D Domains or visualize sliced 3D domain.
 
 ## UBC file format
 
-Orvisu uses UBC file format to generates plots. For one plot two files are needed:
+Orvisu uses UBC file format to generate plots. For one plot two files are needed:
 
 - [mesh](https://giftoolscookbook.readthedocs.io/en/latest/content/fileFormats/mesh3Dfile.html)
 - [model](https://giftoolscookbook.readthedocs.io/en/latest/content/fileFormats/modelfile.html)
 
 The mesh defines the model region and the model file defines the cells properties.
 
-A script named "writeVisuOutput.py" is provided to generates UBC files from [numpy](https://www.numpy.org/) arrays.
+A script named "writeVisuOutput.py" is provided to generate UBC files from [numpy](https://www.numpy.org/) arrays.
 
 Example:
 
