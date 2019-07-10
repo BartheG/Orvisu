@@ -45,7 +45,9 @@ Use the 'install.sh' script.
 ```bash
 git clone https://github.com/BartheG/Orvisu.git
 chmod +x ./install.sh && ./install.sh
-``` or ```bash
+```
+or
+```bash
 git clone https://github.com/BartheG/Orvisu.git
 chmod +x ./install.sh && sudo ./install.sh
 ```
