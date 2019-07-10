@@ -43,7 +43,7 @@ wvo.WriteVisuOutput().run(s_data,'ubc','./s_numpytoubc')
 
 Use the 'install.sh' script.
 ```bash
-git clone https://gitlab.com/Ordrix0/appvisuwitchxcidre
+git clone https://github.com/BartheG/Orvisu.git
 chmod +x ./install.sh && ./install.sh
 ```
 
