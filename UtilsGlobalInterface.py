@@ -78,8 +78,6 @@ wChangeFrame: Hide 'oldframe' and Show new frame
 
 """
 
-from threading import Thread
-
 class mHandler:
 	def wClose(self,data):
 		def OnClick(event):
