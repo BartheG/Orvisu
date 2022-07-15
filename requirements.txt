@@ -2,7 +2,7 @@ appdirs==1.4.3
 blessings==1.7
 certifi==2019.6.16
 chardet==3.0.4
-codecov==2.0.15
+codecov==2.0.16
 colour-runner==0.0.5
 coverage==4.5.3
 cycler==0.10.0
